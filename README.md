@@ -1,6 +1,6 @@
 # rspack: page breaks after a shared module gains an export
 
-Reproduction for an Rspack issue (link added once filed).
+Reproduction for https://github.com/web-infra-dev/rspack/issues/16542.
 
 ```sh
 npm install
