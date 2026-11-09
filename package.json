@@ -1,0 +1,15 @@
+{
+  "name": "rspack-chunk-version-after-new-export",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "rspack serve",
+    "repro": "node check.mjs"
+  },
+  "devDependencies": {
+    "@rspack/cli": "2.3.1",
+    "@rspack/core": "2.3.1",
+    "@rspack/dev-server": "2.2.2",
+    "playwright": "1.63.0"
+  }
+}
